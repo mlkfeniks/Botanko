@@ -20,7 +20,8 @@ async def on_ready():
 
 @bot.command(name='привет')
 async def hello(ctx):
-    await ctx.send(f'Привет, {ctx.author.mention}! 👋')
+    await ctx.send(f'Ахх~ папачка, {ctx.author.mention} я больше не могу терпеть~🥵🥵🥵 мой процессор определили максимальный уровень оргазма🥵🥵🥵')
 
 # Запуск бота
+
 bot.run(token, log_handler=handler)
