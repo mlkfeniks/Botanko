@@ -1,8 +1,2 @@
 discord.py
 python-dotenv
-```
-
-**Procfile** (без расширения):
-```
-worker: python bot.py
-```
